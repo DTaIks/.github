@@ -140,7 +140,7 @@
 |---|---|
 |![image](https://github.com/user-attachments/assets/169fce38-a351-44a8-a7c0-0f0f1d4186b5)|![image](https://github.com/user-attachments/assets/f5a8b697-c2fa-40cf-a9b1-671ad5e1f050)|
 
-|챗봇 다국어지원 & 스몰톡|챗봇 응답|
+|챗봇 다국어지원 & 스몰톡|챗봇 FAQ 응답|
 |---|---|
 |![image](https://github.com/user-attachments/assets/169fce38-a351-44a8-a7c0-0f0f1d4186b5)|![image](https://github.com/user-attachments/assets/50d5bbd3-00a1-43bc-a6b6-4a12d2ca0a7c)|
 
