@@ -17,4 +17,4 @@
 | <img width="180px" src="https://avatars.githubusercontent.com/hdsjiw" /> | <img width="180px" src="https://avatars.githubusercontent.com/hssKang" /> | <img width="180px" src="https://avatars.githubusercontent.com/dogsub" /> | <img width="180px" src="https://avatars.githubusercontent.com/juwonleee" /> | <img width="180px" src="https://avatars.githubusercontent.com/ChoSunHyun" /> |
 |:---:|:---:|:---:|:---:|:---:|
 | BE | AI (PL) | AI, INFRA | AI, INFRA | AI |
-| [전지우](https://github.com/hdsjiw)/ RAG | [강현승](https://github.com/hssKang)| [김동섭](https://github.com/dogsub)| [이주원](https://github.com/juwonleee)| [조선현](https://github.com/ChoSunHyun)|
+| [전지우](https://github.com/hdsjiw) | [강현승](https://github.com/hssKang)| [김동섭](https://github.com/dogsub)| [이주원](https://github.com/juwonleee)| [조선현](https://github.com/ChoSunHyun)|
