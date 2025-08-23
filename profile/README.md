@@ -114,11 +114,6 @@
 </div>
 
 <br>
-![챗봇 가드레일](https://github.com/user-attachments/assets/169fce38-a351-44a8-a7c0-0f0f1d4186b5)
-![챗봇 응답](https://github.com/user-attachments/assets/f5a8b697-c2fa-40cf-a9b1-671ad5e1f050)
-![챗봇 다국어 스몰톡](https://github.com/user-attachments/assets/a7f8b34a-276e-4951-adb2-c4830e24dbbd)
-![챗봇 FAQ](https://github.com/user-attachments/assets/50d5bbd3-00a1-43bc-a6b6-4a12d2ca0a7c)
-
 
 ## DEMO
 |로그인/회원가입|통계
