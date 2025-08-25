@@ -88,6 +88,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/GitOps-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/KakaoCloud-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
 </p>
 </div>
 
