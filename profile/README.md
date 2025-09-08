@@ -95,7 +95,7 @@
 <br>
 
 ## Chatbot Pipeline
-<img width="1920" height="1080" alt="챗봇 파이프라인" src="https://github.com/user-attachments/assets/36dbb1cf-3037-4a25-b840-f05c9194712a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b842f37b-af58-4b7e-9375-13b5f778c395" />
 
 <br>
 <br>
